@@ -1,0 +1,13 @@
+[url "git+ssh://kissiel@git.launchpad.net/"]
+    insteadof = lp:
+[url "git+ssh://kissiel@git.launchpad.net/~kissiel/+git/"]
+    insteadof = lpme:
+[color]
+	ui = auto
+[advice]
+	statusHints = false
+
+[diff]
+    tool = vimdiff
+[difftool]
+    prompt = false
