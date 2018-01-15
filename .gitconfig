@@ -1,3 +1,5 @@
+[core]
+    editor = vim
 [url "git+ssh://kissiel@git.launchpad.net/"]
     insteadof = lp:
 [url "git+ssh://kissiel@git.launchpad.net/~kissiel/+git/"]
