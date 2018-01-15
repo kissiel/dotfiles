@@ -3,16 +3,19 @@
     name = kissiel
 [core]
     editor = vim
+
 [url "git+ssh://kissiel@git.launchpad.net/"]
     insteadof = lp:
 [url "git+ssh://kissiel@git.launchpad.net/~kissiel/+git/"]
     insteadof = lpme:
 [url "ssh://git@github.com/"]
-        insteadof = github:
+    insteadof = github:
+
 [color]
-	ui = auto
+    ui = auto
+
 [advice]
-	statusHints = false
+    statusHints = false
 
 [alias]
     bfm = !sh -c 'git checkout -b $1 master' -
