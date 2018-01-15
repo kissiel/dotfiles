@@ -24,3 +24,6 @@
     tool = vimdiff
 [difftool]
     prompt = false
+
+[include]
+    path = ~/Dropbox/dotfiles/gitconfig-extras
