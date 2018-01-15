@@ -2,6 +2,8 @@
     insteadof = lp:
 [url "git+ssh://kissiel@git.launchpad.net/~kissiel/+git/"]
     insteadof = lpme:
+[url "ssh://git@github.com/"]
+        insteadof = github:
 [color]
 	ui = auto
 [advice]
