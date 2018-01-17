@@ -1,4 +1,4 @@
-zet shiftwidth=4
+set shiftwidth=4
 "set tabstop=4
 set softtabstop=4
 set expandtab
@@ -44,3 +44,4 @@ match OverLength /\%81v.\+/
 
 set directory=$HOME/.vim/swapfiles/
 set hlsearch
+set relativenumber
