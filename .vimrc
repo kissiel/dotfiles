@@ -45,3 +45,5 @@ match OverLength /\%81v.\+/
 set directory=$HOME/.vim/swapfiles/
 set hlsearch
 set relativenumber
+set cursorline
+set cursorcolumn
